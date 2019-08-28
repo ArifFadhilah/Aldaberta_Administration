@@ -23,7 +23,7 @@
   <br/><br/>
   <div class="container">
     <center><img src="aldaberta.png" width="400" height="100"></center><br>
-    <h2><u>Administrasi Perusahaaan</u></h2>
+    <h2><u>Administrasi</u></h2>
 <br/>
 <br/>
 <form class="form-inline" method="POST" action="upload.php" enctype="multipart/form-data">
